@@ -1,7 +1,5 @@
 <template>
     <div>
-        <div class="video-container"></div>
-
         <div class="row">
             <div class="col-md-8">
                 <img width="100%" height="500" :src="product.product_url" :alt="product.description" />
